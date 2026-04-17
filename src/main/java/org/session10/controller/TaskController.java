@@ -52,6 +52,6 @@ public class TaskController {
         }
         taskList.add(task);
 
-        return "redirect:/tasks"; // QUAN TRỌNG
+        return "redirect:/tasks";
     }
 }
